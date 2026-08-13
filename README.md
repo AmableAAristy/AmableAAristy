@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AmableAAristy
-- Currently finishing my undergrad at FIU in December while also trying to think of projects I can do until then.
+- 2024 Winter FIU Grad.
 
 <!---
 AmableAAristy/AmableAAristy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
